@@ -1,5 +1,8 @@
 # Self-Driving-Cars
 
+![image](https://user-images.githubusercontent.com/45831222/188260578-11758ff0-d4d9-473e-85a4-6e38bcf4d751.png)
+
+
 Be at the forefront of the autonomous driving industry. With market researchers predicting a $42-billion market and more than 20 million self-driving cars on the road by 2025, the next big job boom is right around the corner.
 
 This Specialization gives you a comprehensive understanding of state-of-the-art engineering practices used in the self-driving car industry. You'll get to interact with real data sets from an autonomous vehicle (AV)―all through hands-on projects using the open source simulator CARLA.
