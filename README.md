@@ -12,7 +12,7 @@ Throughout your courses, you’ll hear from industry experts who work at compani
 
 You’ll learn from a highly realistic driving environment that features 3D pedestrian modelling and environmental conditions. When you complete the Specialization successfully, you’ll be able to build your own self-driving software stack and be ready to apply for jobs in the autonomous vehicle industry.
 
-## Programming Assignments
+#### Programming Assignments
 
 ### Course 1: [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow?specialization=tensorflow-in-practice)
   
