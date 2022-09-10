@@ -16,5 +16,5 @@ You’ll learn from a highly realistic driving environment that features 3D pede
 
 #### Course 1: [Introduction to Self-Driving Cars](https://github.com/dileepkanumuri/Self-Driving-Cars/tree/main/1.%20Introduction%20to%20Self-Driving%20Cars)
 #### Course 2: [State Estimation and Localization for Self-Driving Car](https://github.com/dileepkanumuri/Self-Driving-Cars/tree/main/2.%20State%20Estimation%20and%20Localization%20for%20Self-Driving%20Cars)
-#### Course 3: [Visual Perception for Self-Driving Cars]
+#### Course 3: [Visual Perception for Self-Driving Cars](https://github.com/dileepkanumuri/Self-Driving-Cars/tree/main/3.%20Visual%20Perception%20for%20Self-Driving%20Cars)
   
